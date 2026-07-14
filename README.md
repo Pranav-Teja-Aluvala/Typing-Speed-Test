@@ -110,18 +110,6 @@ python main.py
 
 ---
 
-## Future Improvements
-
-- Multiplayer typing races
-- User profiles
-- Custom text import
-- CSV export
-- Online leaderboard
-- Per-key heatmaps
-- Performance graphs
-
----
-
 ## License
 
 This project is licensed under the MIT License.
