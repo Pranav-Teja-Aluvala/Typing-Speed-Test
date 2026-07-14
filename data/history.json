@@ -1,0 +1,16 @@
+{
+  "tests": [
+    {
+      "wpm": 3.99,
+      "accuracy": 100.0,
+      "difficulty": "Medium",
+      "duration": 30,
+      "characters_typed": 10,
+      "mistakes": 3,
+      "date": "2026-07-14T14:11:17"
+    }
+  ],
+  "current_streak": 1,
+  "longest_streak": 1,
+  "last_test_date": "2026-07-14"
+}
