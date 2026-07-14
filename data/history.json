@@ -8,9 +8,99 @@
       "characters_typed": 10,
       "mistakes": 3,
       "date": "2026-07-14T14:11:17"
+    },
+    {
+      "wpm": 42.35,
+      "accuracy": 91.6,
+      "difficulty": "Easy",
+      "duration": 30,
+      "characters_typed": 215,
+      "mistakes": 18,
+      "date": "2026-07-14T15:08:44"
+    },
+    {
+      "wpm": 57.82,
+      "accuracy": 95.8,
+      "difficulty": "Medium",
+      "duration": 60,
+      "characters_typed": 578,
+      "mistakes": 14,
+      "date": "2026-07-14T16:42:11"
+    },
+    {
+      "wpm": 71.14,
+      "accuracy": 97.1,
+      "difficulty": "Medium",
+      "duration": 60,
+      "characters_typed": 711,
+      "mistakes": 9,
+      "date": "2026-07-14T18:20:56"
+    },
+    {
+      "wpm": 64.92,
+      "accuracy": 94.8,
+      "difficulty": "Hard",
+      "duration": 60,
+      "characters_typed": 649,
+      "mistakes": 21,
+      "date": "2026-07-14T20:35:27"
+    },
+    {
+      "wpm": 79.33,
+      "accuracy": 98.2,
+      "difficulty": "Random Quotes",
+      "duration": 120,
+      "characters_typed": 1587,
+      "mistakes": 12,
+      "date": "2026-07-15T09:13:08"
+    },
+    {
+      "wpm": 68.41,
+      "accuracy": 96.4,
+      "difficulty": "Hard",
+      "duration": 30,
+      "characters_typed": 342,
+      "mistakes": 8,
+      "date": "2026-07-15T10:17:49"
+    },
+    {
+      "wpm": 84.66,
+      "accuracy": 99.1,
+      "difficulty": "Medium",
+      "duration": 120,
+      "characters_typed": 1694,
+      "mistakes": 7,
+      "date": "2026-07-15T11:55:36"
+    },
+    {
+      "wpm": 61.38,
+      "accuracy": 93.7,
+      "difficulty": "Random Quotes",
+      "duration": 60,
+      "characters_typed": 614,
+      "mistakes": 19,
+      "date": "2026-07-15T13:40:52"
+    },
+    {
+      "wpm": 88.52,
+      "accuracy": 99.4,
+      "difficulty": "Hard",
+      "duration": 120,
+      "characters_typed": 1771,
+      "mistakes": 5,
+      "date": "2026-07-15T15:22:14"
+    },
+    {
+      "wpm": 33.57,
+      "accuracy": 100.0,
+      "difficulty": "Medium",
+      "duration": 30,
+      "characters_typed": 84,
+      "mistakes": 3,
+      "date": "2026-07-15T01:39:36"
     }
   ],
-  "current_streak": 1,
-  "longest_streak": 1,
-  "last_test_date": "2026-07-14"
+  "current_streak": 6,
+  "longest_streak": 9,
+  "last_test_date": "2026-07-15"
 }

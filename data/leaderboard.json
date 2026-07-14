@@ -1,10 +1,90 @@
 [
   {
+    "player_name": "Player 1",
+    "wpm": 102.84,
+    "accuracy": 99.8,
+    "difficulty": "Hard",
+    "duration": 120,
+    "date": "2026-07-15T15:28:17"
+  },
+  {
+    "player_name": "Player 2",
+    "wpm": 97.45,
+    "accuracy": 99.4,
+    "difficulty": "Medium",
+    "duration": 120,
+    "date": "2026-07-15T14:44:50"
+  },
+  {
+    "player_name": "Player 3",
+    "wpm": 93.72,
+    "accuracy": 98.8,
+    "difficulty": "Hard",
+    "duration": 60,
+    "date": "2026-07-15T13:20:41"
+  },
+  {
+    "player_name": "Player 4",
+    "wpm": 90.13,
+    "accuracy": 98.1,
+    "difficulty": "Random Quotes",
+    "duration": 120,
+    "date": "2026-07-15T12:05:13"
+  },
+  {
+    "player_name": "Player 5",
+    "wpm": 88.52,
+    "accuracy": 99.4,
+    "difficulty": "Hard",
+    "duration": 120,
+    "date": "2026-07-15T11:32:28"
+  },
+  {
+    "player_name": "Player 6",
+    "wpm": 84.66,
+    "accuracy": 99.1,
+    "difficulty": "Medium",
+    "duration": 120,
+    "date": "2026-07-15T10:15:07"
+  },
+  {
+    "player_name": "Player 7",
+    "wpm": 81.47,
+    "accuracy": 98.7,
+    "difficulty": "Medium",
+    "duration": 60,
+    "date": "2026-07-15T09:46:55"
+  },
+  {
+    "player_name": "Player 8",
+    "wpm": 79.33,
+    "accuracy": 98.2,
+    "difficulty": "Random Quotes",
+    "duration": 120,
+    "date": "2026-07-15T09:13:08"
+  },
+  {
+    "player_name": "Player 9",
+    "wpm": 75.29,
+    "accuracy": 97.8,
+    "difficulty": "Hard",
+    "duration": 60,
+    "date": "2026-07-15T08:38:22"
+  },
+  {
+    "player_name": "Player 10",
+    "wpm": 71.14,
+    "accuracy": 97.1,
+    "difficulty": "Medium",
+    "duration": 60,
+    "date": "2026-07-14T18:20:56"
+  },
+  {
     "player_name": "Player",
-    "wpm": 3.99,
+    "wpm": 33.57,
     "accuracy": 100.0,
     "difficulty": "Medium",
     "duration": 30,
-    "date": "2026-07-14T14:11:17"
+    "date": "2026-07-15T01:39:36"
   }
 ]

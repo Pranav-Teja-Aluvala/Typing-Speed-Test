@@ -1,14 +1,3 @@
-#!/usr/bin/env python3
-"""
-Typing Speed Pro
------------------
-Entry point for the application. Run with:
-
-    python main.py
-
-See README.md for full setup and usage instructions.
-"""
-
 import sys
 
 from src.game import Game
