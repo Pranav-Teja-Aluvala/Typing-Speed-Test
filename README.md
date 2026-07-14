@@ -1,22 +1,15 @@
 # TypingSpeedTest
 
-> A terminal-based typing speed tester built with Python and Rich, inspired by Monkeytype.
+A modern terminal-based typing speed practice application built with **Python** and **Rich**.
+
+Inspired by Monkeytype, TypingSpeedTest brings a clean, responsive typing experience to the terminal with real-time performance metrics, persistent statistics, customizable settings, and a modular architecture.
 
 <p align="left">
     <img src="https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python">
     <img src="https://img.shields.io/badge/Rich-Terminal-black?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-blue?style=for-the-badge">
     <img src="https://img.shields.io/badge/License-MIT-success?style=for-the-badge">
 </p>
-
----
-
-## Overview
-
-<p align="center">
-    <img src="screenshots/infographic.png" width="100%">
-</p>
-
-TypingSpeedTest is a modern terminal-based typing speed tester designed for fast, distraction-free practice. It provides real-time performance metrics, persistent statistics, configurable settings, and a clean interface inspired by Monkeytype, all while running entirely inside the terminal.
 
 ---
 
@@ -26,22 +19,64 @@ TypingSpeedTest is a modern terminal-based typing speed tester designed for fast
     <img src="demo/demo.gif" width="100%">
 </p>
 
-**Full Video:** [demo/demo.mp4](demo/demo.mp4)
+A short demonstration of the application's interface and typing experience.
+
+---
+
+## Application Overview
+
+<p align="center">
+    <img src="screenshots/infographic.png" width="100%">
+</p>
+
+The infographic above shows the complete application flow, including the main menu, typing session, practice mode, leaderboard, statistics, settings, and overall navigation.
 
 ---
 
 ## Features
 
-- Real-time WPM, Accuracy and Mistake Tracking
-- Monkeytype-inspired Terminal Interface
-- Easy, Medium, Hard and Quotes Modes
+- Real-time WPM and Accuracy tracking
+- Live typing feedback with Rich
+- Multiple difficulty levels
+  - Easy
+  - Medium
+  - Hard
+  - Random Quotes
 - Practice Mode
 - Persistent Leaderboard
 - Lifetime Statistics
-- Configurable Settings
-- Multiple Themes
-- JSON-based Local Storage
+- Multiple UI Themes
+- Configurable Test Duration
 - Cross-platform Keyboard Support
+- Local JSON Data Storage
+
+---
+
+## Installation
+
+Clone the repository
+
+```bash
+git clone https://github.com/Pranav-Teja-Aluvala/Typing-Speed-Test.git
+```
+
+Move into the project
+
+```bash
+cd Typing-Speed-Test
+```
+
+Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+Run the application
+
+```bash
+python main.py
+```
 
 ---
 
@@ -50,34 +85,11 @@ TypingSpeedTest is a modern terminal-based typing speed tester designed for fast
 ```text
 Typing-Speed-Test/
 │
-├── assets/
-│   ├── easy.txt
-│   ├── medium.txt
-│   ├── hard.txt
-│   └── quotes.txt
-│
-├── data/
-│   ├── history.json
-│   ├── leaderboard.json
-│   └── settings.json
-│
-├── demo/
-│   ├── demo.gif
-│   └── demo.mp4
-│
-├── screenshots/
-│   └── infographic.png
-│
-├── src/
-│   ├── config.py
-│   ├── constants.py
-│   ├── game.py
-│   ├── leaderboard.py
-│   ├── paragraphs.py
-│   ├── statistics.py
-│   ├── typing.py
-│   ├── ui.py
-│   └── utils.py
+├── assets/            # Typing passages
+├── data/              # Leaderboard, statistics and settings
+├── demo/              # Demo GIF and video
+├── screenshots/       # Project images
+├── src/               # Source code
 │
 ├── main.py
 ├── requirements.txt
@@ -87,26 +99,33 @@ Typing-Speed-Test/
 
 ---
 
-## Installation
+## Tech Stack
 
-```bash
-git clone https://github.com/Pranav-Teja-Aluvala/Typing-Speed-Test.git
-
-cd Typing-Speed-Test
-
-pip install -r requirements.txt
-
-python main.py
-```
+| Technology | Purpose |
+|------------|---------|
+| Python | Core application |
+| Rich | Terminal UI |
+| JSON | Persistent storage |
+| Dataclasses | Structured models |
+| pathlib | File management |
 
 ---
 
-## Technologies Used
+## Repository Highlights
 
-- Python
-- Rich
-- JSON
-- Dataclasses
+- Modular architecture
+- Separation of UI and business logic
+- Persistent local storage
+- Cross-platform support
+- Easy to extend and maintain
+
+---
+
+## Contributing
+
+Contributions, suggestions, and improvements are welcome.
+
+If you'd like to improve the project, feel free to fork the repository and open a Pull Request.
 
 ---
 
